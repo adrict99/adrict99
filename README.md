@@ -6,7 +6,7 @@ Android & iOS developer
 
 * 🌍  I'm based in Oviedo, Spain
 * ✉️  You can contact me at [adriancastrotorres9@gmail.com](mailto:adriancastrotorres9@gmail.com)
-* 🚀  I'm currently working at [guppy.es](http://www.guppy.es/)
+* 🚀  I'm currently working on improving technical skills
 * 🧠  I'm learning Kotlin, Jetpack Compose & SwiftUI
 * 🤝  I'm open to collaborating on impactful projects that provide real world value
 * ⚡  I really enjoy Android development (but I do have an iPhone...)
