@@ -1,7 +1,7 @@
 Hi 👋 I'm Adrián
 =======================
 
-Android & iOS developer
+I'm an Android & iOS developer
 -----------------------
 
 * 🌍  I'm based in Oviedo, Spain
