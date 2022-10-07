@@ -9,7 +9,7 @@ I'm an Android Developer
 * 🚀  I'm currently working on improving technical skills
 * 🧠  I'm learning Kotlin, Jetpack Compose & Coroutines + Flows
 * 🤝  I'm open to collaborating on impactful projects that provide real world value
-* ⚡  I really enjoy Android development (but I do have an iPhone...)
+* ⚡  I really enjoy Android development
 
 ### Skills
 
