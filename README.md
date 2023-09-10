@@ -6,8 +6,6 @@ I'm an Android Developer
 
 * 🌍  I'm based in Oviedo, Spain
 * ✉️  You can contact me at [adriancastrotorres9@gmail.com](mailto:adriancastrotorres9@gmail.com)
-* 🚀  I'm currently working on improving technical skills
-* 🧠  I'm learning Kotlin, Jetpack Compose & Coroutines + Flows
 
 ### Skills
 
