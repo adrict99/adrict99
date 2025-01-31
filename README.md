@@ -1,8 +1,7 @@
 Hi 👋 I'm Adrián
 =======================
 
-I'm an Android Engineer
------------------------
+I'm an Android & KMM/CMP Developer
 
 * ✉️  You can contact me at [adriancastrotorres9@gmail.com](mailto:adriancastrotorres9@gmail.com)
 
@@ -13,6 +12,7 @@ I'm an Android Engineer
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="[https://firebase.google.com](https://www.jetbrains.com/kotlin-multiplatform/)/" target="_blank" rel="noreferrer"><img src="https://plugins.jetbrains.com/files/14936/645310/icon/pluginIcon.svg" width="36" height="36" alt="Kotlin Multiplatform" /></a>
 </p>
 
 ### Socials
