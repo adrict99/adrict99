@@ -1,7 +1,7 @@
 Hi 👋 I'm Adrián
 =======================
 
-I'm an Android & KMM/CMP Developer
+I'm an Android & Kotlin Multiplatform Developer
 
 * ✉️  You can contact me at [adriancastrotorres9@gmail.com](mailto:adriancastrotorres9@gmail.com)
 
