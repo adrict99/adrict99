@@ -13,6 +13,7 @@ I'm an Android & Kotlin Multiplatform Developer
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://gimgs2.nohat.cc/thumb/f/640/supabase-logo-vector--comseeklogo435677.jpg" width="36" height="36" alt="Supabase" /></a>
 </p>
 
 ### Socials
